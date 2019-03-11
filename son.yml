@@ -1,0 +1,50 @@
+families:
+  - parents: [牛魔王, 牛魔王妻]
+    children: [チチ]
+  - house: 孫家
+    parents: [悟空, チチ]
+    children: [悟飯, 悟天]
+  - parents: [悟飯, ビーデル]
+    children: [パン]
+  - parents: [バーダック, キネ]
+    children: [ラディッツ, 悟空]
+  - parents: [サタン, サタン妻]
+    children: [ビーデル]
+
+people:
+  ラディッツ:
+    fullname: 第一子
+    class: [male]
+  悟空:
+    fullname: 第二子
+    class: [male]
+  悟飯:
+    fullname: 第一子
+    class: [male]
+  悟天:
+    fullname: 第二子
+    class: [male]
+  バーダック:
+    class: [male]
+  牛魔王:
+    class: [male]
+  サタン:
+    class: [male]
+  キネ:
+    class: [female]
+  チチ:
+    class: [female]
+  ビーデル:
+    class: [female]
+  サタン妻:
+    class: [female]
+  牛魔王妻:
+    class: [female]
+  パン:
+    class: [female]
+
+styles:
+  male:
+    color: blue
+  female:
+    color: red
